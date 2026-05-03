@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+.DS_Store
+# *.xlsx (on garde data_prospects)
+/media/inbound/*
+/media/outbound/*
